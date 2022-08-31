@@ -1,1 +1,1 @@
-Making some bash scripts LFG!
+writing some bash scripts
